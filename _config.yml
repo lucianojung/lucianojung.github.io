@@ -16,12 +16,15 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Java
+    web_url: https://github.com/lucianojung?tab=repositories
+    image_url: https://cdn.pixabay.com/photo/2017/05/19/21/12/java-2327538_960_720.png
 
-  - name: Web design
+  - name: Game Dev
+    web_url: https://github.com/lTimeless/BrackeyGameJam-2
+    image_url: https://github.com/lTimeless/BrackeyGameJam-2/blob/master/Assets/BackgroundScenes/AttackingWithKnife/AtackingWithKnife%20(1).png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Android
+    image_url: https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png
+    
+  - name: Elektronik
